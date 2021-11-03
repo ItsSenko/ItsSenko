@@ -6,6 +6,7 @@
 ## Im just a dummi in c#
 
 - Working on the FoxClient :3
+- Vibing with my baby @CatSharkShin
 <br />
 
 ### Languages and Tools:
