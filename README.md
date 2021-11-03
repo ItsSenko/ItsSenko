@@ -6,7 +6,7 @@
 ## Im just a dummi in c#
 
 - Working on the FoxClient :3
-- Vibing with my baby [@CatSharkShin][Cat]
+- Vibing with my baby [CatShark][Cat]
 <br />
 
 ### What i use mainly:
