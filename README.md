@@ -6,7 +6,7 @@
 ## Im just a dummi in c#
 
 - Working on the FoxClient :3
-- Vibing with my baby @CatSharkShin
+- Vibing with my baby [@CatSharkShin][Cat]
 <br />
 
 ### Languages and Tools:
@@ -17,4 +17,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/ItsSenko)
 
-@CatSharkShin: https://github.com/CatSharkShin  
+[Cat]: https://github.com/CatSharkShin  
