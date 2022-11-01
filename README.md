@@ -5,7 +5,7 @@
 ![SenkoXCatShark](https://i.imgur.com/UCfinC1.png)
 ## Im just a dummi in c#
 
-- Working on the FoxClient :3
+- Working on nothing really
 - Vibing with my baby [CatShark][Cat]
 <br />
 
