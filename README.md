@@ -16,7 +16,7 @@
 <img align="left" alt="Trello" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/trello_logo_icon_147221.png" />
 <img align="left" alt="Discord" width="26px" src="https://i.imgur.com/HZPjIHi.png" />
 <img align="left" alt="FoxClient" width="26px" src="https://i.imgur.com/GZdgywM.png" />
-<img align="left" alt="VRChat" width="26px" src="https://preview.redd.it/o8smnmp6erp21.png?width=486&format=png&auto=webp&s=c12d21cff57dd954616fc7e0e60cfb52711e8089" />
+<img align="left" alt="NeosVR" width="26px" src="https://i.imgur.com/oB5Qv2I.png" />
 <br />
 
 ### Stats:
