@@ -1,7 +1,6 @@
 ### Hiya im Senko!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SenkoLittle?color=purple&label=Follow%20me%20%40SenkoLittle&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FItsSenko&screen_name=SenkoLittle)
-![Profile views](https://gpvc.arturio.dev/ItsSenko)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SenkoPur?color=purple&label=Follow%20me%20%40SenkoPur&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FItsSenko&screen_name=SenkoPur)
 ![SenkoXCatShark](https://i.imgur.com/UCfinC1.png)
 ## Im just a dummi in c#
 
