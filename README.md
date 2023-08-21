@@ -1,27 +1,59 @@
-### Hiya im Senko!
+<h2 align="left">Hiya, Im Senko!</h2>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SenkoPur?color=purple&label=Follow%20me%20%40SenkoPur&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FItsSenko&screen_name=SenkoPur)
-![SenkoXCatShark](https://i.imgur.com/UCfinC1.png)
-## Im just a dummi in c#
+###
 
-- Working on nothing really
-- Vibing with my baby [CatShark][Cat]
-<br />
+<img align="left" height="125" src="https://i.imgur.com/pvi0ikw.png"  />
 
-### What i use mainly:
+###
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Trello" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/trello_logo_icon_147221.png" />
-<img align="left" alt="Discord" width="26px" src="https://i.imgur.com/HZPjIHi.png" />
-<img align="left" alt="FoxClient" width="26px" src="https://i.imgur.com/GZdgywM.png" />
-<img align="left" alt="NeosVR" width="26px" src="https://i.imgur.com/oB5Qv2I.png" />
-<br />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+</div>
 
-### Stats:
+###
 
-![GitHub metrics](https://metrics.lecoq.io/ItsSenko)<br />
-[![stats](https://github-readme-stats.vercel.app/api?username=ItsSenko&theme=dark&show_icons=true)](https://github.com/ItsSenko)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsSenko&theme=dark&layout=compact)](https://github.com/ItsSenko)</br>
+<div align="left">
+  <a href="https://discord.gg/VmyGAS24Gf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/SenkoPur" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-[Cat]: https://github.com/CatSharkShin  
+###
+
+<h3 align="left">About Me</h3>
+
+###
+
+<p align="left">- My favorite language is C#. Its what I am best in.<br>- I like playing games in my free time, such as Elden Ring and Minecraft.<br>- I am a aspiring game developer.</p>
+
+###
+
+<h3 align="left">Things I'm Currently Working On</h3>
+
+###
+
+<p align="left">
+  - <a href="https://github.com/ItsSenko/EldenRing-PvP-Helper">Elden Ring PvP Helper</a>
+</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itssenko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssenko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
